@@ -4,6 +4,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=☁️+Cloud+%26+DevOps+Engineer;🚀+Building+on+AWS+Infrastructure;🔧+Automating+Everything+Possible;🐍+Python+%7C+Java+%7C+SQL+Developer;📦+CI%2FCD+%7C+Docker+%7C+Terraform)](https://git.io/typing-svg)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priyanshusmain-cell/priyanshusmain-cell/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/priyanshusmain-cell/priyanshusmain-cell/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/priyanshusmain-cell/priyanshusmain-cell/output/github-contribution-grid-snake.svg"/>
+</picture>
+
 </div>
 
 ---
@@ -91,20 +97,6 @@ open_to: Collaborations & Opportunities
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=priyanshusmain-cell&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priyanshusmain-cell/priyanshusmain-cell/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/priyanshusmain-cell/priyanshusmain-cell/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/priyanshusmain-cell/priyanshusmain-cell/output/github-contribution-grid-snake.svg"/>
-</picture>
 
 </div>
 
