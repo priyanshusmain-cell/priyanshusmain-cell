@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Priyanshu%20Singh&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AWS%20%7C%20DevOps%20Engineer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Priyanshu%20Soni&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AWS%20%7C%20DevOps%20Engineer&descAlignY=55&descSize=20" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=☁️+Cloud+%26+DevOps+Engineer;🚀+Building+on+AWS+Infrastructure;🔧+Automating+Everything+Possible;🐍+Python+%7C+Java+%7C+SQL+Developer;📦+CI%2FCD+%7C+Docker+%7C+Terraform)](https://git.io/typing-svg)
 
@@ -11,7 +11,7 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name: Priyanshu Singh
+name: Priyanshu Soni
 handle: priyanshusmain-cell
 location: India 🇮🇳
 role: AWS / DevOps Engineer
@@ -112,7 +112,7 @@ open_to: Collaborations & Opportunities
 
 ## 📈 Activity Graph
 
-[![Priyanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=priyanshusmain-cell&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Priyanshu Soni's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=priyanshusmain-cell&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
